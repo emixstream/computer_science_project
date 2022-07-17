@@ -1,4 +1,4 @@
 # computer_science_project
-find out the world best universities
+Find out the world best universities.
 
-this python project is commented both in English and Italian
+This python project is commented both in English and Italian
